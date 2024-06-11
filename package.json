@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Program pemenggalan kata atau silabifikasi untuk bahasa Indonesia.",
     "main": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "types": "index.d.ts",
     "scripts": {
         "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
