@@ -19,5 +19,13 @@
     "devDependencies": {
         "@types/node": "^20.14.2",
         "typescript": "^5.4.5"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/linoleux/suku-kata.js.git"
+    },
+    "bugs": {
+        "url": "https://github.com/linoleux/suku-kata.js/issues"
+    },
+    "homepage": "https://github.com/linoleux/suku-kata.js#readme"
 }
