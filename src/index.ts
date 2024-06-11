@@ -118,7 +118,7 @@ const Process3 = (listSuku: Array<string>) => {
     return result
 }
 
-export const Syllabify = (kata: string) => {
+export const Syllabify = (kata: string): string[] => {
     let suku = Preprocess(Replacer(kata, kdift))
     suku = Process1(suku)
     suku = Process2(suku)
