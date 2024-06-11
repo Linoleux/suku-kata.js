@@ -1,0 +1,23 @@
+{
+    "name": "suku-kata.js",
+    "version": "0.0.1",
+    "description": "Program pemenggalan kata atau silabifikasi untuk bahasa Indonesia.",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "suku-kata",
+        "suku kata",
+        "silabifikasi",
+        "bahasa indonesia",
+        "bahasa"
+    ],
+    "author": "Linoleum",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^20.14.2",
+        "typescript": "^5.4.5"
+    }
+}
