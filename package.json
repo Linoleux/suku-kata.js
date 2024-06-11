@@ -1,6 +1,6 @@
 {
     "name": "suku-kata.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Program pemenggalan kata atau silabifikasi untuk bahasa Indonesia.",
     "main": "dist/index.js",
     "types": "index.d.ts",
