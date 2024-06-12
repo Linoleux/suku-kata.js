@@ -1,9 +1,9 @@
 {
     "name": "suku-kata.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Program pemenggalan kata atau silabifikasi untuk bahasa Indonesia.",
     "main": "dist/index.js",
-    "types": "index.d.ts",
+    "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsc",
         "test": "echo \"Error: no test specified\" && exit 1"
